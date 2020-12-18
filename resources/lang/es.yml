@@ -4,7 +4,7 @@
 
 # Info Messages
 info:
-  kygektagsshop.info.economybuytagsuccess: "Se ha cambiado exitosamente tu etiqueta por {price}"
+  kygektagsshop.info.economybuytagsuccess: "Has comprado exitosamente tu etiqueta por {price}"
   kygektagsshop.info.freebuytagsuccess: "Se ha cambiado exitosamente tu etiqueta"
   kygektagsshop.info.economyselltagsuccess: "Has vendido tu etiqueta con éxito por {price}"
   kygektagsshop.info.freeselltagsuccess: "Has vendido tu etiqueta con éxito"
